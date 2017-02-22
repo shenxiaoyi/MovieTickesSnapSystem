@@ -3,7 +3,7 @@
 
 采用技术：Spring Boot、Redis、DataNucleus JDO、Mariadb、Spring Mail
 
-展示地址(非长期有效)：http://cenx.xin:8080/ 或者 http://120.77.175.184:8080/
+展示地址(非长期有效)：http://cenx.xin/ 或者 http://120.77.175.184/
 
 #功能描述:
 
